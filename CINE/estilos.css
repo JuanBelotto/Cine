@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: antiquewhite ;
+}
+button{
+    transform-style: preserve-3d ;
+    font-family: fantasy;
+}
+.resp{
+    font-style: oblique;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+input{
+    transform-style: inherit;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
